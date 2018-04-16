@@ -1,7 +1,7 @@
 /**
 ** Factorial Program
 ** Ahasanul Basher Hamza
-** Date: 23/02/18
+** Date: 24/02/18
 ***/
 
 #include <stdio.h>
